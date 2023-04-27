@@ -1,3 +1,2 @@
 Task.txt
-Remota kodlar ekliyorum------111111
-Canister local
+Remota kodlar ekliyorum
