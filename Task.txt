@@ -1,3 +1,2 @@
 Task.txt
-Remota kodlar ekliyorum-----remote
-cakistir
+Remota kodlar ekliyorum
